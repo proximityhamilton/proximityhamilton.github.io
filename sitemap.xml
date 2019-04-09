@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.proximityhamilton.com.au/bccm/</loc>
+    <lastmod>2019-04-04T15:36:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.proximityhamilton.com.au/about/</loc>
     <lastmod>2017-06-07T15:36:00+05:30</lastmod>
   </url>
@@ -24,7 +29,7 @@
   
   <url>
     <loc>http://www.proximityhamilton.com.au/</loc>
-    <lastmod>2017-06-07T15:36:00+05:30</lastmod>
+    <lastmod>2019-04-04T15:36:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
